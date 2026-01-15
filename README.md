@@ -19,10 +19,12 @@ I design and develop **scalable, reliable software systems** — from backend AP
 <p align="center" style="margin-top: 24px; margin-bottom: 48px;">
   <a href="https://www.linkedin.com/in/edwardhuang201/">
     <img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:edwall201@gmail.com">
-    <img height="32" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
+  <a href="mailto:edwall201@gmail.com?subject=Hello%20Edward">
+  <img
+    height="32"
+    src="https://img.shields.io/badge/Email-edwall201%40gmail.com-D14836?logo=gmail&logoColor=white"
+  />
+</a>
   <a href="https://yukaihuang.com">
     <img height="32" src="https://img.shields.io/badge/Portfolio-4E71F0?logo=google-chrome&logoColor=white" />
   </a>
