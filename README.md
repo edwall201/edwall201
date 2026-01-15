@@ -6,12 +6,9 @@
 </p>
 
 
----
-
 ## About Me
 I design and develop **scalable, reliable software systems** — from backend APIs and cloud infrastructure to full-stack applications used in production. I’m passionate about clean architecture, developer workflows, and real-world engineering problems.
 
----
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,javascript,mysql,nodejs,react,flask,html,css,aws,docker,git,linux,jenkins,postgres,sklearn,pytorchj" />
@@ -30,8 +27,6 @@ I design and develop **scalable, reliable software systems** — from backend AP
     <img height="32" src="https://img.shields.io/badge/Portfolio-4E71F0?logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   Thanks for visiting my profile — stay curious and keep building!
