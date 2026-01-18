@@ -1,5 +1,5 @@
 <!-- Hi there 👋 -->
-<h1 align="center">Hey there, I'm Yu-Kai (Edward) 👨‍💻</h1>
+<h1 align="center">Hey there, I'm Edward 👨‍💻</h1>
 
 <p align="center">
   <em>Software Engineer building scalable, production-ready systems from the ground up.</em>
